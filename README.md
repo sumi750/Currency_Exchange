@@ -19,7 +19,7 @@ and stores exchange requests in a MySQL database.
 - API: Exchange rate API (e.g., ExchangeRate-API or any other service)
 
 # Installation
-- Clone the repository : git clone
+- Clone the repository : git clone https://github.com/sumi750/Currency_Exchange
 - cd currency_exchange
 
 # Setup
