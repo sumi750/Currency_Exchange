@@ -6,7 +6,7 @@ services. This application supports user authentication via JWT tokens, performs
 and stores exchange requests in a MySQL database.
 
 # Features
-User Authentication: Secure sign-up and login functionality using JWT for authentication.
+-[User Authentication: Secure sign-up and login functionality using JWT for authentication.]
 Currency Exchange: Convert currencies in real-time using live exchange rates.
 Exchange Request Management: Submit and store currency exchange requests in the database.
 User Dashboard: Access to exchange features after successful login.
